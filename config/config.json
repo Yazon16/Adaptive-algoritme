@@ -1,0 +1,12 @@
+{
+    "interface": "eth0",
+    "database_path": "signatures.db",
+    "api_port": 8080,
+    "worker_count": 4,
+    "buffer_size": 10000,
+    "syn_threshold": 50,
+    "http_threshold": 100,
+    "udp_threshold": 200,
+    "time_window_sec": 60,
+    "enable_blocking": false
+}

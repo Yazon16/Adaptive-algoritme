@@ -1,0 +1,10 @@
+# Behavioral Analysis Module - Dependencies
+
+# ML и анализ данных
+scikit-learn>=1.0.0
+numpy>=1.21.0
+joblib>=1.1.0
+
+# Опционально (для расширенного анализа)
+# pandas>=1.3.0
+# scipy>=1.7.0
